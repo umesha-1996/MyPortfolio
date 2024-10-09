@@ -711,7 +711,7 @@
     background-repeat: no-repeat;
   }
   to {
-    background: url("../images/bg_dark.jpg");
+    background: url("../images/bg_dark.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -726,7 +726,7 @@
     background-repeat: no-repeat;
   }
   to {
-    background: url("../images/bg_dark.jpg");
+    background: url("../images/bg_dark.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -741,7 +741,7 @@
     background-repeat: no-repeat;
   }
   to {
-    background: url("../images/bg_dark.jpg");
+    background: url("../images/bg_dark.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -762,7 +762,7 @@
 
 @keyframes b-light {
   from {
-    background: url("../images/bg_dark.jpg");
+    background: url("../images/bg_dark.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -777,7 +777,7 @@
 
 @-moz-keyframes b-light {
   from {
-    background: url("../images/bg_dark.jpg");
+    background: url("../images/bg_dark.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -792,7 +792,7 @@
 
 @-webkit-keyframes b-light {
   from {
-    background: url("../images/bg_dark.jpg");
+    background: url("../images/bg_dark.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;

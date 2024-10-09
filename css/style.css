@@ -915,18 +915,14 @@ body {
   background-repeat: no-repeat;
 }
 
-
-
-
 @media screen and (prefers-color-scheme: dark) {
   body {
-    background: url("../images/bg_dark.jpg");
+    background: url("../images/bg_dark.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
   }
 }
-
 
 .theme-adjuster {
   position: absolute;
@@ -935,21 +931,19 @@ body {
   margin: 20px 25px 0px 0px;
 }
 
-.theme-adjuster i{
-    transform: scale(1);
-    transition: transform 0.2s;
+.theme-adjuster i {
+  transform: scale(1);
+  transition: transform 0.2s;
 }
 
-.theme-adjuster i:hover{
-    transform: scale(1.15);
-    transition: transform 0.2s;
-
+.theme-adjuster i:hover {
+  transform: scale(1.15);
+  transition: transform 0.2s;
 }
 
-.theme-adjuster i:active{
-    transform: scale(0.9);
-    transition: transform 0.2s;
-
+.theme-adjuster i:active {
+  transform: scale(0.9);
+  transition: transform 0.2s;
 }
 
 .area {
